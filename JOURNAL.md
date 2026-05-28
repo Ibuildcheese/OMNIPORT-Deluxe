@@ -15,6 +15,13 @@ After this i will try to find all the components of the USB's and then based on 
 
 **Total time spent: 1 hour**
 
+# March 28: Chose USB Receptacle Parts for Schematic
+
+Finally caved and decided to use EasyEDA instead of Kicad as per a friends suggestion. finding all of the receptacles was difficult but not impossible as it had been on Kicad. To conclude, i found all the receptacles and it was a pleasant surprise that there were AB versions of some USB's which saved a ton of time. I am now going to search for the plugs and then the USB Host controller IC's.
+
+![concept drawing](Stasis_Journal_Images/Screenshot 2026-01-21 221320.png)
+
+**Total time spent: 2 hour**
 
 
 
