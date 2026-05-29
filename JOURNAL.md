@@ -21,7 +21,7 @@ Finally caved and decided to use EasyEDA instead of Kicad as per a friends sugge
 
 ![concept drawing](Stasis_Journal_Images/Screenshot-2026-01-21-221320.png)
 
-**Total time spent: 2 hour**
+**Total time spent: 2 hours**
 
 # May 29: Worked on Schematic
 
@@ -29,6 +29,22 @@ Picked out a few more switch and power IC's and a superspeed one. though, i have
 
 ![concept drawing](Stasis_Journal_Images/Screenshot-2026-01-24-000549.png)
 
-**Total time spent: 3 hour**
+**Total time spent: 3 hours**
+
+# May 29: Changed up schematic + wired a bit
+
+I haven't found the output symbols yet but i will soon. I have also chosen to go with a few more USB 3.0 inputs to convert since i wanted to dip my toes into 3.0 superspeed territory and to add a bit more functionality to the design
+
+![concept drawing](Stasis_Journal_Images/Screenshot-2026-02-01-233457.png)
+
+i have no idea how to handle phone charging from all of those USB's and have yet to find any suitable phone power management IC's, let alone USB power ones, but its probably not that hard to figure out.
+
+**Total time spent: 2 hours**
+
+
+
+
+
+
 
 
