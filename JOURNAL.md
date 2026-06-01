@@ -41,7 +41,8 @@ i have no idea how to handle phone charging from all of those USB's and have yet
 
 **Total time spent: 2 hours**
 
-# May 31: Changed up schematic + wired a bit
+
+# May 31: Schematic - Finished choosing IC's for USB 3.0
 
 Because of their excellently documented datasheets, I went with a TI chip for both the CC controller and the USB-C SS multiplexing.
 
@@ -52,6 +53,20 @@ It was quite difficult to wire all of the SS lines as i was confused on where TX
 I am now looking into whether i want usb-PD and some QSPI flash memory for the RP2040 that i will use in this design.
 
 **Total time spent: 1.5 hours**
+
+
+# June 1: Changed up schematic + wired a bit
+
+i connected the power, flash memory, and finished all of the decoupling capacitors. I also finished the USB-A plug in for power and data for the rp2040 only.
+
+![concept drawing](Stasis_Journal_Images/Screenshot-2026-02-07-200321.png)
+
+Now its time to finish up the usb 3.0 multiplexing and stuff.
+
+**Total time spent: 1 hour**
+
+
+
 
 
 
