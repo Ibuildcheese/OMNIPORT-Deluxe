@@ -41,7 +41,17 @@ i have no idea how to handle phone charging from all of those USB's and have yet
 
 **Total time spent: 2 hours**
 
+# May 29: Changed up schematic + wired a bit
 
+Because of their excellently documented datasheets, I went with a TI chip for both the CC controller and the USB-C SS multiplexing.
+
+![concept drawing](Stasis_Journal_Images/Screenshot-2026-02-04-225659.png)
+
+It was quite difficult to wire all of the SS lines as i was confused on where TX/RX goes and it didn't help that the USB-C receptacle datasheet had barely any pinout info, but i managed in the end.
+
+I am now looking into whether i want usb-PD and some QSPI flash memory for the RP2040 that i will use in this design.
+
+**Total time spent: 1.5 hours**
 
 
 
