@@ -41,7 +41,7 @@ i have no idea how to handle phone charging from all of those USB's and have yet
 
 **Total time spent: 2 hours**
 
-# May 29: Changed up schematic + wired a bit
+# May 31: Changed up schematic + wired a bit
 
 Because of their excellently documented datasheets, I went with a TI chip for both the CC controller and the USB-C SS multiplexing.
 
