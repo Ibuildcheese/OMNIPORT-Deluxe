@@ -74,6 +74,18 @@ Picked out all parts except the ac receptacle and maybe some other ones that i f
 **Total time spent: 2 hours**
 
 
+# June 1: Corrected and added IC's in schematic
+
+Firstly, the 2:1 muxes were just the wrong IC and i had to replace them. Next, I organized the sections a little more and put a box over ic's that I finished.
+
+![concept drawing](Stasis_Journal_Images/Screenshot-2026-04-18-200801.png)
+
+one thing that i havent done yet was wire all of the I/O's, but in order to do that i needed to find a gpio expander over i2c, as seen in the picture. i will continue to further experiment with the size and wiring of this section.
+
+![concept drawing](Stasis_Journal_Images/Screenshot-2026-04-18-200825.png)
+
+**Total time spent: 1.5 hours**
+
 
 
 
