@@ -74,7 +74,7 @@ Picked out all parts except the ac receptacle and maybe some other ones that i f
 **Total time spent: 2 hours**
 
 
-# June 1: Corrected and added IC's in schematic
+# June 2: Corrected and added IC's in schematic
 
 Firstly, the 2:1 muxes were just the wrong IC and i had to replace them. Next, I organized the sections a little more and put a box over ic's that I finished.
 
