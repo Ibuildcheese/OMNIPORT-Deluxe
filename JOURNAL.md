@@ -65,6 +65,16 @@ Now its time to finish up the usb 3.0 multiplexing and stuff.
 
 **Total time spent: 1 hour**
 
+# June 1: Schematic - picked more parts
+
+Picked out all parts except the ac receptacle and maybe some other ones that i forgot about. I also wired up all the current protectors for the usb vbus. The wiring that is left are all the I/O's of the RP2040 and a bit more tinkering with the usb-c -> usb-a because the orientation detectors are killing me with all of their datasheets.
+
+![concept drawing](Stasis_Journal_Images/Screenshot-2026-02-19-053850.png)
+
+**Total time spent: 2 hours**
+
+
+
 
 
 
